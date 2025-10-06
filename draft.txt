@@ -1,0 +1,18 @@
+/*Section Word */
++ change photo from div box (8 photo)
+
+**************************
+/*section stuff*/
++change p description to anther text
++ change p indiv text
++ change img 
+*************************
+/*section team*/
++ change text of p 
++ change text of h4 
++ change text of quot
++ change images (4 img )
+************************************
+/*section techs*/
++ change images (6 img)
+********************************************
