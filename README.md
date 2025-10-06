@@ -10,4 +10,4 @@ A simple responsive website designed with Bootstrap grid system and components.
 - Navbar, carousel, and cards from Bootstrap components.
 
 ## Live Demo
-[🔗 View the website here](https://yourprojectlink.github.io)
+[🔗 View the website here]( https://olaabodouh.github.io/Bondi/)
